@@ -295,4 +295,8 @@ align-items: center;
          nav {
              display:none;
          }
+
+         body {
+             padding: 10px;
+         }
   }
